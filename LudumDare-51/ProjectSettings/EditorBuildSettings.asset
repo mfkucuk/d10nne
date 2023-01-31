@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 75a98b8bec293fa4aa99ca7633b5c8c5
+  - enabled: 1
+    path: Assets/Scenes/Cinematic.unity
+    guid: bb212f5f6fa2c0044af9098f98ea8dad
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tutorial 1.unity
+    guid: 60220cdc7d1427f4788d59f270b77abf
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tutorial 2.unity
+    guid: 3c9cfcba403097d44afb24d493700a2b
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tutorial 3.unity
+    guid: 5ff4d9d4a620caf47a0a3d3cfde274c4
+  - enabled: 1
+    path: Assets/Scenes/Levels/Feyyaz Levels/Level 2.unity
+    guid: 87d3b20a4aa52eb4aa4317b791eeb1df
+  - enabled: 1
+    path: Assets/Scenes/Levels/500 IQ/LevelB3.unity
+    guid: 8d4ec24282cc734469422a0d7731ded7
+  - enabled: 1
+    path: Assets/Scenes/Levels/Feyyaz Levels/Level 1.unity
+    guid: 951f2dc2989da9a4f9403cd570fab062
+  - enabled: 1
+    path: Assets/Scenes/Levels/500 IQ/LevelB1.unity
+    guid: a15b158b624a6bf4eaecdb166cfbf064
+  - enabled: 1
+    path: Assets/Scenes/Levels/Feyyaz Levels/Level 4.unity
+    guid: 9524bec127bf08944bf454f735d3ff9a
+  - enabled: 1
+    path: Assets/Scenes/Levels/500 IQ/LevelB2.unity
+    guid: bb6ac02b5bb6dcd4c84de49dd3a474b1
+  - enabled: 1
+    path: Assets/Scenes/Levels/Feyyaz Levels/Level 3.unity
+    guid: 2fbd037de9d6d17468abe090aa45fef6
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: b263dc9ea218688448baa05111ee3de2
+  m_configObjects: {}
